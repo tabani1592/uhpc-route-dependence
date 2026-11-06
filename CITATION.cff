@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these data or code, please cite them as below, together with the associated paper."
+message: "If you use these data or code, please cite them as below."
 title: "UHPC route-dependence: data and analysis code"
 type: dataset
 authors:
@@ -11,7 +11,12 @@ authors:
     given-names: Rahul
     affiliation: "Visvesvaraya National Institute of Technology, Nagpur, India"
 repository-code: "https://github.com/tabani1592/uhpc-route-dependence"
-license: [MIT, CC-BY-4.0]
-version: "1.0.0"
-date-released: "2026-11-05"
-keywords: [UHPC, UHPFRC, curing, test methods, mixed-effects model, meta-analysis]
+license: CC-BY-4.0
+version: "1.0.2"
+date-released: "2026-11-06"
+keywords:
+  - UHPC
+  - UHPFRC
+  - curing
+  - test methods
+  - mixed-effects model
